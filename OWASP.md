@@ -5,3 +5,5 @@
 ## In broken Access if any user have some satndard access which
 
 # it can uses the acces of the some other user.
+
+sinsitive information can be aaces from there
